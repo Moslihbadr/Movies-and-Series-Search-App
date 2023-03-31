@@ -20,7 +20,7 @@ This project was built using the following technologies:
 
 ## usage
 
-To use this web app, you can visite the official website : [movie-serie-info](https://movie-serie-info.netlify.app/)
+To use this web app, you can visite the official website : [movie-serie-info](https://movie-serie-info.netlify.app)
 
 ## Usage
 
