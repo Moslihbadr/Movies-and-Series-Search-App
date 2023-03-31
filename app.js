@@ -1,0 +1,1 @@
+const API = `http://www.omdbapi.com/?s=${name}&apikey=5b739529`
